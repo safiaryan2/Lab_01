@@ -1,0 +1,921 @@
+fileFormatVersion: 2
+guid: 20c1ffbf73fb8734ab6380a33ffc815d
+timeCreated: 1518445162
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player_Zombie_0
+    21300002: player_Zombie_1
+    21300004: player_Zombie_2
+    21300006: player_Zombie_3
+    21300008: player_Zombie_4
+    21300010: player_Zombie_5
+    21300012: player_Zombie_6
+    21300014: player_Zombie_7
+    21300016: player_Zombie_8
+    21300018: player_Zombie_9
+    21300020: player_Zombie_10
+    21300022: player_Zombie_11
+    21300024: player_Zombie_12
+    21300026: player_Zombie_13
+    21300028: player_Zombie_14
+    21300030: player_Zombie_15
+    21300032: player_Zombie_16
+    21300034: player_Zombie_17
+    21300036: player_Zombie_18
+    21300038: player_Zombie_19
+    21300040: player_Zombie_20
+    21300042: player_Zombie_21
+    21300044: player_Zombie_22
+    21300046: player_Zombie_23
+    21300048: player_Zombie_24
+    21300050: player_Zombie_25
+    21300052: player_Zombie_26
+    21300054: player_Zombie_27
+    21300056: player_Zombie_28
+    21300058: player_Zombie_29
+    21300060: player_Zombie_30
+    21300062: player_Zombie_31
+    21300064: player_Zombie_32
+    21300066: player_Zombie_33
+    21300068: player_Zombie_34
+    21300070: player_Zombie_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_Zombie_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 195
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 195
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 194
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 193
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 194
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 195
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 194
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 193
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 194
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 130
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 130
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 131
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 131
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 130
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 130
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 130
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 130
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 130
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 65
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 65
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 64
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_34
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_Zombie_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -268, y: -77}
+      - {x: -270, y: -80}
+      - {x: -270, y: -123}
+      - {x: -267, y: -128}
+      - {x: -245, y: -128}
+      - {x: -244, y: -122}
+      - {x: -244, y: -78}
+      - {x: -246, y: -77}
+    - - {x: -202, y: -78}
+      - {x: -204, y: -82}
+      - {x: -206, y: -92}
+      - {x: -206, y: -128}
+      - {x: -180, y: -128}
+      - {x: -177, y: -125}
+      - {x: -177, y: -81}
+      - {x: -185, y: -78}
+    - - {x: -12, y: -77}
+      - {x: -17, y: -92}
+      - {x: -17, y: -120}
+      - {x: -8, y: -128}
+      - {x: 9, y: -128}
+      - {x: 12, y: -121}
+      - {x: 12, y: -78}
+      - {x: 10, y: -77}
+    - - {x: 52, y: -78}
+      - {x: 46, y: -88}
+      - {x: 46, y: -117}
+      - {x: 52, y: -128}
+      - {x: 76, y: -128}
+      - {x: 78, y: -124}
+      - {x: 78, y: -80}
+      - {x: 72, y: -78}
+    - - {x: 111, y: -96}
+      - {x: 111, y: -116}
+      - {x: 119, y: -127}
+      - {x: 123, y: -128}
+      - {x: 139, y: -128}
+      - {x: 140, y: -127}
+      - {x: 140, y: -77}
+      - {x: 120, y: -77}
+      - {x: 114, y: -79}
+    - - {x: 181, y: -77}
+      - {x: 176, y: -78}
+      - {x: 176, y: -110}
+      - {x: 185, y: -128}
+      - {x: 203, y: -128}
+      - {x: 204, y: -120}
+      - {x: 204, y: -77}
+    - - {x: 245, y: -77}
+      - {x: 241, y: -86}
+      - {x: 241, y: -123}
+      - {x: 243, y: -127}
+      - {x: 249, y: -128}
+      - {x: 266, y: -128}
+      - {x: 268, y: -127}
+      - {x: 268, y: -77}
+    - - {x: -140, y: -77}
+      - {x: -141, y: -81}
+      - {x: -141, y: -121}
+      - {x: -138, y: -127}
+      - {x: -115, y: -127}
+      - {x: -115, y: -79}
+      - {x: -119, y: -77}
+    - - {x: -80, y: -77}
+      - {x: -80, y: -126}
+      - {x: -77, y: -127}
+      - {x: -53, y: -127}
+      - {x: -52, y: -121}
+      - {x: -52, y: -77}
+    - - {x: -71, y: -14}
+      - {x: -78, y: -17}
+      - {x: -82, y: -38}
+      - {x: -82, y: -57}
+      - {x: -77, y: -66}
+      - {x: -46, y: -66}
+      - {x: -46, y: -23}
+      - {x: -50, y: -14}
+    - - {x: -16, y: -13}
+      - {x: -18, y: -21}
+      - {x: -18, y: -60}
+      - {x: -12, y: -66}
+      - {x: 11, y: -66}
+      - {x: 18, y: -58}
+      - {x: 18, y: -22}
+      - {x: 16, y: -13}
+    - - {x: 179, y: -14}
+      - {x: 174, y: -29}
+      - {x: 174, y: -57}
+      - {x: 181, y: -66}
+      - {x: 206, y: -66}
+      - {x: 210, y: -64}
+      - {x: 210, y: -21}
+      - {x: 207, y: -14}
+    - - {x: 244, y: -13}
+      - {x: 238, y: -21}
+      - {x: 238, y: -66}
+      - {x: 266, y: -66}
+      - {x: 274, y: -60}
+      - {x: 274, y: -17}
+      - {x: 265, y: -13}
+    - - {x: -267, y: -13}
+      - {x: -274, y: -16}
+      - {x: -274, y: -65}
+      - {x: -238, y: -65}
+      - {x: -238, y: -31}
+      - {x: -244, y: -13}
+    - - {x: -182, y: -13}
+      - {x: -203, y: -13}
+      - {x: -210, y: -22}
+      - {x: -210, y: -57}
+      - {x: -205, y: -65}
+      - {x: -175, y: -65}
+      - {x: -174, y: -61}
+      - {x: -174, y: -26}
+    - - {x: -144, y: -13}
+      - {x: -146, y: -18}
+      - {x: -146, y: -61}
+      - {x: -140, y: -65}
+      - {x: -115, y: -65}
+      - {x: -110, y: -58}
+      - {x: -110, y: -30}
+      - {x: -116, y: -13}
+    - - {x: 75, y: -13}
+      - {x: 52, y: -13}
+      - {x: 46, y: -27}
+      - {x: 46, y: -60}
+      - {x: 51, y: -65}
+      - {x: 80, y: -65}
+      - {x: 82, y: -58}
+      - {x: 82, y: -21}
+      - {x: 78, y: -15}
+    - - {x: 135, y: -13}
+      - {x: 118, y: -13}
+      - {x: 110, y: -27}
+      - {x: 110, y: -53}
+      - {x: 111, y: -63}
+      - {x: 116, y: -65}
+      - {x: 140, y: -65}
+      - {x: 146, y: -58}
+      - {x: 146, y: -33}
+      - {x: 141, y: -19}
+    - - {x: -268, y: 51}
+      - {x: -268, y: 0}
+      - {x: -247, y: 0}
+      - {x: -242, y: 15}
+      - {x: -242, y: 49}
+      - {x: -250, y: 51}
+    - - {x: -205, y: 50}
+      - {x: -207, y: 46}
+      - {x: -207, y: 4}
+      - {x: -206, y: 0}
+      - {x: -180, y: 0}
+      - {x: -178, y: 5}
+      - {x: -178, y: 50}
+    - - {x: 8, y: 51}
+      - {x: -10, y: 51}
+      - {x: -12, y: 49}
+      - {x: -12, y: 0}
+      - {x: 12, y: 0}
+      - {x: 17, y: 10}
+      - {x: 17, y: 25}
+      - {x: 14, y: 49}
+    - - {x: 50, y: 50}
+      - {x: 50, y: 0}
+      - {x: 79, y: 0}
+      - {x: 82, y: 8}
+      - {x: 82, y: 44}
+      - {x: 76, y: 50}
+    - - {x: 122, y: 51}
+      - {x: 116, y: 49}
+      - {x: 116, y: 4}
+      - {x: 117, y: 0}
+      - {x: 145, y: 0}
+      - {x: 145, y: 51}
+    - - {x: 203, y: 51}
+      - {x: 180, y: 51}
+      - {x: 180, y: 9}
+      - {x: 181, y: 0}
+      - {x: 199, y: 0}
+      - {x: 208, y: 13}
+      - {x: 208, y: 36}
+      - {x: 206, y: 48}
+    - - {x: 266, y: 51}
+      - {x: 246, y: 51}
+      - {x: 244, y: 46}
+      - {x: 244, y: 10}
+      - {x: 248, y: 0}
+      - {x: 266, y: 0}
+      - {x: 271, y: 12}
+      - {x: 271, y: 47}
+      - {x: 270, y: 49}
+    - - {x: -135, y: 51}
+      - {x: -141, y: 46}
+      - {x: -141, y: 1}
+      - {x: -117, y: 1}
+      - {x: -115, y: 3}
+      - {x: -115, y: 44}
+      - {x: -117, y: 51}
+    - - {x: -72, y: 51}
+      - {x: -76, y: 49}
+      - {x: -76, y: 20}
+      - {x: -72, y: 2}
+      - {x: -69, y: 1}
+      - {x: -54, y: 1}
+      - {x: -48, y: 5}
+      - {x: -48, y: 37}
+      - {x: -54, y: 51}
+    - - {x: -75, y: 114}
+      - {x: -82, y: 95}
+      - {x: -82, y: 73}
+      - {x: -78, y: 63}
+      - {x: -46, y: 63}
+      - {x: -46, y: 102}
+      - {x: -55, y: 114}
+    - - {x: 174, y: 114}
+      - {x: 174, y: 63}
+      - {x: 205, y: 63}
+      - {x: 210, y: 75}
+      - {x: 210, y: 101}
+      - {x: 202, y: 114}
+    - - {x: -143, y: 115}
+      - {x: -146, y: 101}
+      - {x: -146, y: 72}
+      - {x: -142, y: 68}
+      - {x: -131, y: 64}
+      - {x: -115, y: 64}
+      - {x: -110, y: 73}
+      - {x: -110, y: 114}
+      - {x: -114, y: 115}
+    - - {x: 10, y: 115}
+      - {x: -12, y: 115}
+      - {x: -18, y: 102}
+      - {x: -18, y: 70}
+      - {x: -16, y: 65}
+      - {x: -11, y: 64}
+      - {x: 12, y: 64}
+      - {x: 18, y: 79}
+      - {x: 18, y: 107}
+      - {x: 17, y: 111}
+    - - {x: 121, y: 115}
+      - {x: 116, y: 111}
+      - {x: 110, y: 105}
+      - {x: 110, y: 64}
+      - {x: 138, y: 64}
+      - {x: 146, y: 71}
+      - {x: 146, y: 97}
+      - {x: 138, y: 115}
+    - - {x: 266, y: 115}
+      - {x: 246, y: 115}
+      - {x: 238, y: 104}
+      - {x: 238, y: 74}
+      - {x: 240, y: 64}
+      - {x: 267, y: 64}
+      - {x: 273, y: 66}
+      - {x: 274, y: 75}
+      - {x: 274, y: 100}
+    - - {x: -238, y: 74}
+      - {x: -238, y: 111}
+      - {x: -248, y: 115}
+      - {x: -266, y: 115}
+      - {x: -274, y: 102}
+      - {x: -274, y: 77}
+      - {x: -272, y: 67}
+      - {x: -266, y: 65}
+      - {x: -246, y: 65}
+      - {x: -241, y: 68}
+    - - {x: -199, y: 115}
+      - {x: -200, y: 114}
+      - {x: -210, y: 102}
+      - {x: -210, y: 79}
+      - {x: -206, y: 65}
+      - {x: -178, y: 65}
+      - {x: -174, y: 69}
+      - {x: -174, y: 104}
+      - {x: -177, y: 115}
+    - - {x: 55, y: 115}
+      - {x: 46, y: 103}
+      - {x: 46, y: 69}
+      - {x: 47, y: 65}
+      - {x: 75, y: 65}
+      - {x: 82, y: 71}
+      - {x: 82, y: 112}
+      - {x: 72, y: 115}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
